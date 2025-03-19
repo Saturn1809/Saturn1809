@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vipin Yadav</h1>
 <h3 align="center">"✨ Writing code, breaking things, fixing bugs — and having fun while at it!"</h3>
 
+
+
 - 🎓 Btech IT student 
 - 🌱 Currently learning **Full Stack Development** & exploring **ML algorithms**
 - 🎮 Gaming, 🎶 music & 📚 reading keep me balanced
